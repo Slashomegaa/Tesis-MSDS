@@ -1,0 +1,33 @@
+Specification,id,Short_Run_ECI,Long_Run_ECT
+"Model 2.FDI_GDP/(ECI_HS92, GDP_capita)",2,50.025462,-0.785938236047513**
+"Model 7.FDI_GDP/(ECI_HS92, GDP_capita, Trade_GDP)",7,84.423422***,-0.087198***
+"Model 8.FDI_GDP/(ECI_HS92, GFCF_GDP, Trade_GDP)",8,-1.341206,-1.444427***
+"Model 10.FDI_GDP/(ECI_HS92, GovQualityIndex, Trade_GDP)",10,44.516591,-0.080440***
+"Model 11.FDI_GDP/(ECI_HS92, ICT_Index, Trade_GDP)",11,24.833738***,-0.440216***
+"Model 14.FDI_GDP/(ECI_HS92, GDP_capita, GovQualityIndex)",14,154.515504130718**,-1.385236***
+"Model 15.FDI_GDP/(ECI_HS92, GDP_capita, ICT_Index)",15,76.814074***,-1.339670***
+"Model 17.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex)",17,-23.300161***,-2.848063***
+"Model 18.FDI_GDP/(ECI_HS92, GFCF_GDP, ICT_Index)",18,24.639010***,-1.089475***
+"Model 25.FDI_GDP/(ECI_HS92, GDP_capita, ICT_Index, Trade_GDP)",25,48.633115***,-1.115889***
+"Model 26.FDI_GDP/(ECI_HS92, GFCF_GDP, School_enrollment, Trade_GDP)",26,-21.030749***,-1.377019***
+"Model 27.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex, Trade_GDP)",27,-34.0590937576434**,-1.545895***
+"Model 28.FDI_GDP/(ECI_HS92, GFCF_GDP, ICT_Index, Trade_GDP)",28,14.961104***,-0.780154***
+"Model 31.FDI_GDP/(ECI_HS92, GovQualityIndex, ICT_Index, Trade_GDP)",31,16.565697***,-0.521784***
+"Model 33.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, GovQualityIndex)",33,-67.729173***,-2.173641***
+"Model 34.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, ICT_Index)",34,-16.332222***,-0.512040***
+"Model 37.FDI_GDP/(ECI_HS92, GDP_capita, GovQualityIndex, ICT_Index)",37,-15.937943***,-0.973532***
+"Model 39.FDI_GDP/(ECI_HS92, GFCF_GDP, ICT_Index, School_enrollment)",39,-33.397474***,-1.346945***
+"Model 40.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex, ICT_Index)",40,-13.588513***,-1.135953***
+"Model 41.FDI_GDP/(ECI_HS92, GovQualityIndex, ICT_Index, School_enrollment)",41,-21.0129579536894**,-1.330536***
+"Model 44.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, ICT_Index, Trade_GDP)",44,53.432817***,-0.909019***
+"Model 47.FDI_GDP/(ECI_HS92, GDP_capita, GovQualityIndex, ICT_Index, Trade_GDP)",47,-8.827066***,-1.830065***
+"Model 48.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex, School_enrollment, Trade_GDP)",48,-8.095406***,-3.257472***
+"Model 51.FDI_GDP/(ECI_HS92, GovQualityIndex, ICT_Index, School_enrollment, Trade_GDP)",51,50.272076***,-3.534800***
+"Model 53.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, ICT_Index, School_enrollment)",53,162.335648***,-3.310488***
+"Model 54.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, GovQualityIndex, ICT_Index)",54,-24.623493***,-0.519345***
+"Model 56.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex, ICT_Index, School_enrollment)",56,90.266201***,0.128903***
+"Model 59.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, GovQualityIndex, ICT_Index, Trade_GDP)",59,-13.8570343023313**,-1.420764***
+"Model 60.FDI_GDP/(ECI_HS92, GDP_capita, GovQualityIndex, ICT_Index, School_enrollment, Trade_GDP)",60,-39.832491***,-1.507785***
+"Model 61.FDI_GDP/(ECI_HS92, GFCF_GDP, GovQualityIndex, ICT_Index, School_enrollment, Trade_GDP)",61,-26.5389122782397**,-1.568933***
+"Model 62.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, GovQualityIndex, ICT_Index, School_enrollment)",62,-11.707075***,-1.843483***
+"Model 63.FDI_GDP/(ECI_HS92, GDP_capita, GFCF_GDP, GovQualityIndex, ICT_Index, School_enrollment, Trade_GDP)",63,-2.008463,-0.000009
